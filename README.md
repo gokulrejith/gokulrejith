@@ -1,6 +1,6 @@
 <img src = "https://www.hotfootdesign.co.uk/wp-content/uploads/2016/02/01-Tab_keys-1.gif" width=100%>
 <h1 align="center">Hi there 👋 :grinning:, I'm Gokul Rejithkumar</h1>
-
+A passionate self-taught literally everything.
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulrejith&layout=compact&theme=radical" alt="gokulrejith" />
 </p>
