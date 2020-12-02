@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 :grinning:, I'm Gokul Rejithkumar</h1>
+<h1 align="center">Hi there 👋, I'm Gokul Rejithkuma :grinning:r</h1>
 <h3 align="center">A passionate self-taught literally everything. </h3>
 
 <p align="center">
