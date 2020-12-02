@@ -2,7 +2,7 @@
 <h3 align="center">A passionate self-taught literally everything. </h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gokulrejith&show_icons=true&theme=gruvbox" alt="gokulrejith" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gokulrejith&show_icons=true&theme=cobalt" alt="gokulrejith" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gokulrejith" alt="gokulrejith" />
