@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 :grinning:, I'm Gokul Rejithkumar</h1>
-<img src = "https://github.com/gokulrejith/gokulrejith/blob/main/space%20discovery.svg" width=100%>
+<img src = "https://github.com/gokulrejith/gokulrejith/blob/main/CHECK.svg" width=100%>
 <h3 align="center">A passionate self-taught literally everything. </h3>
 
 <p align="center">
