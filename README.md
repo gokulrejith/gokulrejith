@@ -11,15 +11,6 @@
   <a href="mailto:gokulrejith@gmail.com">Email</a>
 </p>
 
----
-
-### About me
-
-- 🔧 ML Engineer at **ARENA2036 (Mercedes-Benz AG)** — working on ML workflows for automotive manufacturing.
-- 🏆 **Distinguished Paper Award** at **ICSE 2025** for work on explainable requirements analysis.
-- 📝 First-author publications at **ICSE** and **RE**
-- 🔬 3+ years building production NLP pipelines, fine-tuning LLMs/SLMs, and deploying RAG systems.
-- 🎓 Previously Research ML Engineer at **TCS Research**, shipping models on a platform handling **30,000+ contracts/year**.
 
 ---
 
